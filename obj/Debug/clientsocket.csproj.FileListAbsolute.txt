@@ -1,0 +1,9 @@
+C:\Users\Pranitha\Desktop\Code\clientsocket\obj\Debug\clientsocket.pdb
+C:\Users\Pranitha\Desktop\Code\clientsocket\bin\Debug\clientsocket.exe
+C:\Users\Pranitha\Desktop\Code\clientsocket\bin\Debug\clientsocket.pdb
+C:\Users\Pranitha\Desktop\Code\clientsocket\obj\Debug\clientsocket.csprojResolveAssemblyReference.cache
+C:\Users\Pranitha\Desktop\Code\clientsocket\obj\Debug\clientsocket.socketclient.resources
+C:\Users\Pranitha\Desktop\Code\clientsocket\obj\Debug\clientsocket.csproj.GenerateResource.Cache
+C:\Users\Pranitha\Desktop\Code\clientsocket\obj\Debug\clientsocket.exe
+C:\Users\Pranitha\Documents\GitHub\ClientSocket\obj\Debug\clientsocket.exe
+C:\Users\Pranitha\Documents\GitHub\ClientSocket\obj\Debug\clientsocket.pdb
